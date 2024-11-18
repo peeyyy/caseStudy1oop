@@ -1,0 +1,24 @@
+{
+    "patron_count": 3,
+    "EJ": [
+        {
+            "title": "Harry Potter",
+            "type": "Book",
+            "publication_year": 1997,
+            "language": "English",
+            "shelf_location": "A1",
+            "condition": "Good"
+        }
+    ],
+    "Eduard": [
+        {
+            "title": "Discover",
+            "type": "Magazine",
+            "publication_year": 2021,
+            "language": "English",
+            "shelf_location": "B7",
+            "condition": "Fair"
+        }
+    ],
+    "Carl": []
+}

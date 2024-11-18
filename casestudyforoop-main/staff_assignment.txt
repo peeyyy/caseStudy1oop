@@ -1,0 +1,261 @@
+{
+    "Book": {
+        "Harry Potter": {
+            "staff": "Malou Wang",
+            "station": 2,
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "ISBN": "978-3-16-148410-0",
+            "pages": 500,
+            "publication_year": 1997,
+            "language": "English",
+            "shelf_location": "A1",
+            "condition": "Good"
+        },
+        "The Great Gatsby": {
+            "staff": "Malou Wang",
+            "station": 2,
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classic",
+            "ISBN": "978-0-7432-7356-5",
+            "pages": 180,
+            "publication_year": 1925,
+            "language": "English",
+            "shelf_location": "A2",
+            "condition": "Fair"
+        },
+        "1984": {
+            "staff": "James Foley",
+            "station": 1,
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "ISBN": "978-0-452-28423-4",
+            "pages": 328,
+            "publication_year": 1949,
+            "language": "English",
+            "shelf_location": "A3",
+            "condition": "Good"
+        },
+        "Pride and Prejudice": {
+            "staff": "Lisa Zhang",
+            "station": 4,
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "ISBN": "978-0-19-953556-9",
+            "pages": 279,
+            "publication_year": 1813,
+            "language": "English",
+            "shelf_location": "A4",
+            "condition": "Excellent"
+        },
+        "Moby Dick": {
+            "staff": "Malou Wang",
+            "station": 2,
+            "author": "Herman Melville",
+            "genre": "Adventure",
+            "ISBN": "978-0-14-243724-7",
+            "pages": 635,
+            "publication_year": 1851,
+            "language": "English",
+            "shelf_location": "A5",
+            "condition": "Poor"
+        },
+        "War and Peace": {
+            "staff": "James Foley",
+            "station": 1,
+            "author": "Leo Tolstoy",
+            "genre": "Historical",
+            "ISBN": "978-1-85715-062-9",
+            "pages": 1225,
+            "publication_year": 1869,
+            "language": "English",
+            "shelf_location": "A6",
+            "condition": "Fair"
+        },
+        "To Kill a Mockingbird": {
+            "staff": "Lisa Zhang",
+            "station": 4,
+            "author": "Harper Lee",
+            "genre": "Classic",
+            "ISBN": "978-0-06-112008-4",
+            "pages": 281,
+            "publication_year": 1960,
+            "language": "English",
+            "shelf_location": "A7",
+            "condition": "Good"
+        },
+        "The Catcher in the Rye": {
+            "staff": "Tina Moran",
+            "station": 1,
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "ISBN": "978-0-316-76948-0",
+            "pages": 214,
+            "publication_year": 1951,
+            "language": "English",
+            "shelf_location": "A8",
+            "condition": "Fair"
+        },
+        "The Hobbit": {
+            "staff": "Ping Guerrero",
+            "station": 3,
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "ISBN": "978-0-618-00221-3",
+            "pages": 310,
+            "publication_year": 1937,
+            "language": "English",
+            "shelf_location": "A9",
+            "condition": "Excellent"
+        }
+    },
+    "Magazine": {
+        "AVON": {
+            "staff": "Tina Moran",
+            "station": 1,
+            "issue": "May 2024",
+            "issue_number": 5,
+            "publication_year": 2024,
+            "language": "English",
+            "shelf_location": "B1",
+            "condition": "New"
+        },
+        "National Geographic": {
+            "staff": "James Foley",
+            "station": 1,
+            "issue": "October 2023",
+            "issue_number": 201,
+            "publication_year": 2023,
+            "language": "English",
+            "shelf_location": "B2",
+            "condition": "Good"
+        },
+        "TIME": {
+            "staff": "Lisa Zhang",
+            "station": 4,
+            "issue": "August 2022",
+            "issue_number": 15,
+            "publication_year": 2022,
+            "language": "English",
+            "shelf_location": "B3",
+            "condition": "Fair"
+        },
+        "Science Monthly": {
+            "staff": "Ping Guerrero",
+            "station": 3,
+            "issue": "March 2021",
+            "issue_number": 33,
+            "publication_year": 2021,
+            "language": "English",
+            "shelf_location": "B4",
+            "condition": "Good"
+        },
+        "Vogue": {
+            "staff": "Tina Moran",
+            "station": 1,
+            "issue": "September 2023",
+            "issue_number": 306,
+            "publication_year": 2023,
+            "language": "English",
+            "shelf_location": "B5",
+            "condition": "Excellent"
+        },
+        "Forbes": {
+            "staff": "James Foley",
+            "station": 1,
+            "issue": "July 2022",
+            "issue_number": 200,
+            "publication_year": 2022,
+            "language": "English",
+            "shelf_location": "B6",
+            "condition": "Good"
+        },
+        "Discover": {
+            "staff": "Lisa Zhang",
+            "station": 4,
+            "issue": "April 2021",
+            "issue_number": 120,
+            "publication_year": 2021,
+            "language": "English",
+            "shelf_location": "B7",
+            "condition": "Fair"
+        },
+        "Rolling Stone": {
+            "staff": "Ping Guerrero",
+            "station": 3,
+            "issue": "January 2024",
+            "issue_number": 102,
+            "publication_year": 2024,
+            "language": "English",
+            "shelf_location": "B8",
+            "condition": "New"
+        },
+        "The Economist": {
+            "staff": "Tina Moran",
+            "station": 1,
+            "issue": "December 2023",
+            "issue_number": 55,
+            "publication_year": 2023,
+            "language": "English",
+            "shelf_location": "B9",
+            "condition": "Good"
+        }
+    },
+    "DVD": {
+        "Titanic": {
+            "staff": "Ping Guerrero",
+            "station": 3,
+            "director": "James Cameron",
+            "genre": "Drama/Romance",
+            "duration": "3h 14m",
+            "publication_year": 1997,
+            "language": "English",
+            "shelf_location": "C1",
+            "condition": "Good"
+        },
+        "The Matrix": {
+            "staff": "Malou Wang",
+            "station": 2,
+            "director": "Lana Wachowski, Lilly Wachowski",
+            "genre": "Sci-Fi",
+            "duration": "2h 16m",
+            "publication_year": 1999,
+            "language": "English",
+            "shelf_location": "C2",
+            "condition": "Excellent"
+        },
+        "Inception": {
+            "staff": "James Foley",
+            "station": 1,
+            "director": "Christopher Nolan",
+            "genre": "Sci-Fi",
+            "duration": "2h 28m",
+            "publication_year": 2010,
+            "language": "English",
+            "shelf_location": "C3",
+            "condition": "Fair"
+        },
+        "The Godfather": {
+            "staff": "Lisa Zhang",
+            "station": 4,
+            "director": "Francis Ford Coppola",
+            "genre": "Crime",
+            "duration": "2h 55m",
+            "publication_year": 1972,
+            "language": "English",
+            "shelf_location": "C4",
+            "condition": "Good"
+        },
+        "The Dark Knight": {
+            "staff": "Ping Guerrero",
+            "station": 3,
+            "director": "Christopher Nolan",
+            "genre": "Action",
+            "duration": "2h 32m",
+            "publication_year": 2008,
+            "language": "English",
+            "shelf_location": "C5",
+            "condition": "Excellent"
+        }
+    }
+}

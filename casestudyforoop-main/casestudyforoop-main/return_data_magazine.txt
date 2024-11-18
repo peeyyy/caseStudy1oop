@@ -1,0 +1,4 @@
+Patron Name: Eduard, Item Title: Forbes, Date Borrowed: 2024-11-17, Due Date: 2024-12-17, Date Returned: 2024-11-17, Return: ON TIME
+Patron Name: Carl, Item Title: AVON, Date Borrowed: 2024-11-18, Due Date: 2024-12-18, Date Returned: 2024-11-18, Return: ON TIME
+Patron Name: Carl, Item Title: AVON, Date Borrowed: 2024-11-18, Due Date: 2024-12-18, Date Returned: 2024-12-19, Return: OVERDUE
+Patron Name: EJ, Item Title: Forbes, Date Borrowed: 2024-11-18, Due Date: 2024-12-18, Date Returned: 2024-11-18, Return: ON TIME
